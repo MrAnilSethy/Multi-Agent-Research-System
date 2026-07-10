@@ -1,0 +1,122 @@
+# ==========================
+# Core LlamaIndex
+# ==========================
+llama-index>=0.12.0
+llama-index-core
+llama-index-llms-mistralai
+llama-index-agent-openai
+llama-index-readers-web
+llama-index-tools
+llama-index-workflows
+
+# ==========================
+# Mistral AI
+# ==========================
+mistralai
+
+# ==========================
+# OpenAI (For DALL·E)
+# ==========================
+openai
+
+# ==========================
+# Web Scraping
+# ==========================
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# ==========================
+# Image Processing
+# ==========================
+Pillow
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv
+
+# ==========================
+# HTTP Client
+# ==========================
+httpx
+aiohttp
+
+# ==========================
+# Data Handling
+# ==========================
+pandas
+numpy
+
+# ==========================
+# JSON Handling
+# ==========================
+orjson
+
+# ==========================
+# Logging
+# ==========================
+loguru
+
+# ==========================
+# Validation
+# ==========================
+pydantic
+
+# ==========================
+# Retry Mechanism
+# ==========================
+tenacity
+
+# ==========================
+# Progress Bars
+# ==========================
+tqdm
+
+# ==========================
+# Rich Terminal Output
+# ==========================
+rich
+
+# ==========================
+# Async Utilities
+# ==========================
+nest-asyncio
+
+# ==========================
+# FastAPI Backend (Optional)
+# ==========================
+fastapi
+uvicorn
+
+# ==========================
+# Jupyter (Optional)
+# ==========================
+ipykernel
+jupyter
+
+# ==========================
+# Type Checking
+# ==========================
+typing_extensions
+
+# ==========================
+# File Utilities
+# ==========================
+python-multipart
+
+# ==========================
+# Markdown Parsing
+# ==========================
+markdown
+
+# ==========================
+# YAML Support
+# ==========================
+PyYAML
+
+# ==========================
+# Date Utilities
+# ==========================
+python-dateutil
